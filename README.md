@@ -45,4 +45,4 @@ LoginPod is a password encrypter and password manager written in bash with pytho
 
 ## License
 
-This work by [3xplotGuy](https://github.com/darkboss1) is licensed under the terms of the [MIT License](https://www.serialkey.top).
+This work by [darkvaiadmin](https://github.com/darkboss1) is licensed under the terms of the [MIT License](https://www.serialkey.top).
