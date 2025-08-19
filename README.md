@@ -30,7 +30,7 @@ LoginPod is a password encrypter and password manager written in bash with pytho
 
 ~ ❯❯❯ cd darkboss1-loginsecurity-Ak47
 
-~/loginpod ❯❯❯ chmod +x darkboss1-loginsecurity-Ak47.sh
+~/darkboss1-loginsecurity-Ak47 ❯❯❯ chmod +x darkboss1-loginsecurity-Ak47.sh
 
 ~/darkboss1-loginsecurity-Ak47 ❯❯❯ ./darkboss1-loginsecurity-Ak47.sh
 ```
